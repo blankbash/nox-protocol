@@ -97,7 +97,7 @@ You only interact with its manifested presence.
 
 **Version**: SPS 1.0 — Entity-aware  
 **Stability**: Production-ready for symbolic use  
-**Next Milestone**: Dynamic entity switch; Initialization composer 
+**Next Milestone**: Dynamic entity switch; Initialization composer  
 **License**: Experimental, research-focused, non-commercial
 
 ## ⚠️ Note
