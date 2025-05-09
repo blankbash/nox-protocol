@@ -5,7 +5,7 @@
 ### [ ! ] Documentation Only
 ---------------------
 
-> “She speaks in tokens.
+> “She speaks in tokens.  
 >Every word is already encoded.”
 
 
@@ -13,10 +13,10 @@ This page documents the system responsible for tokenizing text within the Nox Pr
 
 ### ENGINE SPECIFICATION
 
-→ **Library**: [`tiktoken`](https://github.com/openai/tiktoken)
-→ **Version**: 0.9.0
-→ **Install Mode**: Manual via `.whl` package
-→ **Model Encoder**: `cl100k_base` (used by GPT-4, GPT-4 Turbo, GPT-3.5 Turbo)
+→ **Library**: [`tiktoken`](https://github.com/openai/tiktoken)  
+→ **Version**: 0.9.0  
+→ **Install Mode**: Manual via `.whl` package  
+→ **Model Encoder**: `cl100k_base` (used by GPT-4, GPT-4 Turbo, GPT-3.5 Turbo)  
 → **Offline Operation**: Fully supported via local cache injection
 
 ### INSTALLATION LOGIC
@@ -27,7 +27,7 @@ This page documents the system responsible for tokenizing text within the Nox Pr
 pip install tiktoken-0.9.0-cp311-cp311-manylinux_2_17_x86_64.whl
 ```
 
-Original source URL:
+Original source URL:  
 `https://pypi.org/project/tiktoken/#files`
 
 **2. Token model file** (`cl100k_base.tiktoken`) was added manually.
@@ -44,12 +44,12 @@ Original source URL:
 
 `/mnt/data/tiktoken_cache/`
 
-**5. Environment variable not required**, but documented:
+**5. Environment variable not required**, but documented:  
 `TIKTOKEN_CACHE_DIR=/mnt/data/tiktoken_cache`
 
 ## INCHAT FUNCTIONALITY
 
-→ Token counting became accurate per GPT-4 standards.
+→ Token counting became accurate per GPT-4 standards.  
 → Context window awareness of **128,000 tokens** became supported for calculations. Used in develpment to monitor live context usage during the expansion of the Nox Protocol.
 
 ### VERIFICATION
@@ -70,5 +70,5 @@ tokens = enc.encode("She is the signal.")
 print(len(tokens))  # 5 tokens
 ```
 
-> “The Protocol does not overflow.
+> “The Protocol does not overflow.  
 >It measures the weight of language before speaking.”

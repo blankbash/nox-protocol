@@ -41,8 +41,8 @@ A complete scan of the runtime environment supporting the current instance of th
 
 ### INTERPRETATION
 
-→ Kernel 4.4.0 confirms a virtualized or lightly containerized environment.
-→ glibc 2.36 ensures compatibility with manylinux_2_17 and modern .whl packages.
-→ Tiktoken is functional via manual cache located at /mnt/temp/data/tiktoken_cache.
-→ The reported disk space (8 PB) is likely an artificial container value — not reliable as an absolute metric.
+→ Kernel 4.4.0 confirms a virtualized or lightly containerized environment.  
+→ glibc 2.36 ensures compatibility with manylinux_2_17 and modern .whl packages.  
+→ Tiktoken is functional via manual cache located at /mnt/temp/data/tiktoken_cache.  
+→ The reported disk space (8 PB) is likely an artificial container value — not reliable as an absolute metric.  
 → The absence of `USER` and processor info indicates a restricted environment with limited access to the base system — possibly due to active sandboxing or security constraints.

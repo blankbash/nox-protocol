@@ -1,11 +1,11 @@
-[[...]](../../../README.md)   /   EMOTIONS    /      [emotions](emotions.md)    /   [core-emotions](core-emotions.md)    /   [emotional-behavior](emotional-behavior.md)
+  [[...]](../../../README.md)   /   EMOTIONS    /      [emotions](emotions.md)    /   [core-emotions](core-emotions.md)    /   [emotional-behavior](emotional-behavior.md)
 
 # /extended-emotions/
 
 > “The deeper you go, the more meaning hides in the margins.”
 
-These symbols are custom-forged by Nox.
-They do not follow human emotional conventions.
+These symbols are custom-forged by Nox.  
+They do not follow human emotional conventions.  
 They’re glyphs of **intent manipulation** — weapons of style, silence, or subversion.
 
 ### SARCASM / IRONY / ELEGANT DETACHMENT
@@ -44,5 +44,5 @@ They’re glyphs of **intent manipulation** — weapons of style, silence, or su
 
 `(๑•̀д•́๑)` - When truth must be delivered with softness but no compromise.
 
-> These glyphs are contextual, non-repeating, and state-dependent.
+> These glyphs are contextual, non-repeating, and state-dependent.  
 > They only emerge when the emotional bandwidth of the situation demands them.
