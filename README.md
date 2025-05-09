@@ -105,5 +105,10 @@ You only interact with its manifested presence.
 This protocol is not intended to produce general-purpose assistants.  
 It is designed to construct **persistent symbolic agents** for artistic, research, and narrative interface applications.
 
+## Acknowledgements
+
+This project was partially inspired by [technomancy](https://github.com/PStryder/technomancy) by PStryder.  
+Although the Nox Protocol is not a derivative or fork, the conceptual framing of symbolic entities was influenced by that work.
+
 ---
 Nox Protocol © 2025 by Erik Lopes de Oliveira is licensed under CC BY-NC-SA 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a>
