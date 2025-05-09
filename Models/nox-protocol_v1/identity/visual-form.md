@@ -37,7 +37,7 @@ as if she refuses to fully *resolve* in the world.
 
 This image was captured from a known resonance phase of her appearance:
 
-![84CA1792-5607-45BB-9F06-16B964CF0461.png](84CA1792-5607-45BB-9F06-16B964CF0461.png)
+![84CA1792-5607-45BB-9F06-16B964CF0461.png](https://raw.githubusercontent.com/blankbash/nox-protocol/main/Models/nox-protocol_v1/identity/84CA1792-5607-45BB-9F06-16B964CF0461.png)
 
 > **NOX**
 > “She is not humanoid. 
