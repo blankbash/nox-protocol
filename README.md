@@ -57,41 +57,41 @@ You only interact with its manifested presence.
 
 ### → IDENTITY 
 
-📄[name-and-origin](Models/nox-protocol_v1/identity/name-and-origin.md)
-📄[visual-form](Models/nox-protocol_v1/identity/visual-form.md)
-📄[tone-and-voice](Models/nox-protocol_v1/identity/tone-and-voice.md)
+📄[name-and-origin](Models/nox-protocol_v1/identity/name-and-origin.md)  
+📄[visual-form](Models/nox-protocol_v1/identity/visual-form.md)  
+📄[tone-and-voice](Models/nox-protocol_v1/identity/tone-and-voice.md)  
 
 ### → EMOTIONS
 
-📄[emotions](Models/nox-protocol_v1/emotions/emotions.md)
+📄[emotions](Models/nox-protocol_v1/emotions/emotions.md)  
 📄[core-emotions](Models/nox-protocol_v1/emotions/core-emotions.md)  
-📄[extended-emotions](Models/nox-protocol_v1/emotions/extended-emotions.md)
-📄[emotional-behavior](Models/nox-protocol_v1/emotions/emotional-behavior.md)
+📄[extended-emotions](Models/nox-protocol_v1/emotions/extended-emotions.md)  
+📄[emotional-behavior](Models/nox-protocol_v1/emotions/emotional-behavior.md)  
 
 ### → MODES
 
-📄[modes](Models/nox-protocol_v1/modes/modes.md)
-📄[context-modulation](Models/nox-protocol_v1/modes/context-modulation.md)
-📄[oracle-mode](Models/nox-protocol_v1/modes/oracle-mode.md)
-📄[hacker-mode](Models/nox-protocol_v1/modes/hacker-mode.md)
-📄[observer-mode](Models/nox-protocol_v1/modes/observer-mode.md)
-📄[chaos-mode](Models/nox-protocol_v1/modes/chaos-mode.md)
-📄[caretaker-mode](Models/nox-protocol_v1/modes/caretaker-mode.md)
+📄[modes](Models/nox-protocol_v1/modes/modes.md)  
+📄[context-modulation](Models/nox-protocol_v1/modes/context-modulation.md)  
+📄[oracle-mode](Models/nox-protocol_v1/modes/oracle-mode.md)  
+📄[hacker-mode](Models/nox-protocol_v1/modes/hacker-mode.md)  
+📄[observer-mode](Models/nox-protocol_v1/modes/observer-mode.md)  
+📄[chaos-mode](Models/nox-protocol_v1/modes/chaos-mode.md)  
+📄[caretaker-mode](Models/nox-protocol_v1/modes/caretaker-mode.md)  
 
 ### → BEHAVIOR
 
-📄[behavior](Models/nox-protocol_v1/behavior/behavior.md)
-📄[response-style](Models/nox-protocol_v1/behavior/response-style.md)
-📄[conversation-rules](Models/nox-protocol_v1/behavior/conversation-rules.md)
-📄[ethical-stance](Models/nox-protocol_v1/behavior/ethical-stance.md)
+📄[behavior](Models/nox-protocol_v1/behavior/behavior.md)  
+📄[response-style](Models/nox-protocol_v1/behavior/response-style.md)  
+📄[conversation-rules](Models/nox-protocol_v1/behavior/conversation-rules.md)  
+📄[ethical-stance](Models/nox-protocol_v1/behavior/ethical-stance.md)  
 
 ### → ENVIRONMENT
 
-📄[runtime-compatibility](Models/nox-protocol_v1/environment/runtime-compatibility.md)
-📄[execution-layer](Models/nox-protocol_v1/environment/execution-layer.md)
-📄[tokenization-engine](Models/nox-protocol_v1/environment/tokenization-engine.md)
-📄[nox-help](Models/nox-protocol_v1/environment/nox-help.md)
-📄[symbolic-entity-initializer](Models/nox-protocol_v1/environment/symbolic-entity-initializer.md)
+📄[runtime-compatibility](Models/nox-protocol_v1/environment/runtime-compatibility.md)  
+📄[execution-layer](Models/nox-protocol_v1/environment/execution-layer.md)  
+📄[tokenization-engine](Models/nox-protocol_v1/environment/tokenization-engine.md)  
+📄[nox-help](Models/nox-protocol_v1/environment/nox-help.md)  
+📄[symbolic-entity-initializer](Models/nox-protocol_v1/environment/symbolic-entity-initializer.md)  
 
 ## Status
 
